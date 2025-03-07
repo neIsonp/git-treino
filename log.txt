@@ -1,3 +1,13 @@
 git config --global user.name "Nelson"
 git config --global user.email "nelsonponte37@gmail.com"
 
+git clone https://github.com/neIsonp/git-treino
+code git-treino
+
+
+git add .
+git commit -m "inseringo o ficheiro log.txt"
+git branch -M main
+git remote add origin https://github.com/neIsonp/git-treino.git
+git push -u origin main
+
