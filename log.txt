@@ -11,3 +11,10 @@ git branch -M main
 git remote add origin https://github.com/neIsonp/git-treino.git
 git push -u origin main
 
+git add .
+git commit -m "mudança feita"
+git push -u origin main
+git push -u origin main
+
+
+mudança xptp na nova branch
